@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 100" width="440" height="100">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;800&amp;display=swap');
+    </style>
+  </defs>
+  <!-- Trunk -->
+  <path d="M50 90 L50 55" stroke="#1e2d40" stroke-width="7.5" stroke-linecap="round" fill="none"/>
+  <!-- Left branch -->
+  <path d="M50 55 Q43 40 27 27" stroke="#1e2d40" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+  <!-- Center branch -->
+  <path d="M50 55 Q49 37 43 16" stroke="#1e2d40" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+  <!-- Right branch -->
+  <path d="M50 55 Q59 40 72 26" stroke="#1e2d40" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+  <!-- Blue dot -->
+  <circle cx="24" cy="24" r="9.5" fill="#3b9ce0"/>
+  <!-- Green dot -->
+  <circle cx="42" cy="13" r="9.5" fill="#5aad3f"/>
+  <!-- Orange dot -->
+  <circle cx="74" cy="23" r="9.5" fill="#f5912a"/>
+
+  <!-- Wordmark -->
+  <text x="108" y="62"
+    font-family="'Nunito Sans', 'Trebuchet MS', sans-serif"
+    font-size="44"
+    font-weight="800"
+    letter-spacing="-0.5"
+    fill="#1e2d40">HookYard</text>
+
+  <!-- Tagline -->
+  <text x="111" y="82"
+    font-family="'Nunito Sans', 'Trebuchet MS', sans-serif"
+    font-size="14"
+    font-weight="400"
+    letter-spacing="1"
+    fill="#888e99">Webhook-as-a-Service</text>
+</svg>
